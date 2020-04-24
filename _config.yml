@@ -22,10 +22,10 @@ plugins:
 # Site settings
 url: 'https://mydomain.com'
 baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+title: 'Cumberland Valley Collective'
+description: 'CVC'
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/CVC_Capital_Partners_logo.svg/200px-CVC_Capital_Partners_logo.svg.png"
 
 # Pagination
 paginate: 5
@@ -37,8 +37,11 @@ navigation_header:
   url: /
 - title: About
   url: /about/
+- title: Sponsors
+  url: /Sponsors/
 - title: Blog
   url: /blog/
+
 
 # Footer nav
 navigation_footer:
@@ -50,7 +53,7 @@ collections:
   posts:
     title: Posts
     output: true
-    description: "My thoughts and ideas"
+    description: "Race reports, ride stories, and other news"
     feature_text: |
-      Welcome to my blog
+      Cumberland Cycling Collective Blog
     feature_image: "https://picsum.photos/2560/600?image=866"

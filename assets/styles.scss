@@ -1,0 +1,31 @@
+---
+title: false
+styles: true
+---
+$backgroundColour: #dedede !default;
+$linkColour: #ce6e00 !default;
+$headingColour: #ffffff !default;
+$headingtype: (
+  font-family: '"Manrope", serif',
+  regular: 400,
+  bold: 700,
+  cap-height: 0.75
+) !default;
+
+// Typography
+$bodytype: (
+  font-family: "Manrope, serif",
+  regular: 400,
+  bold: 400,
+  italic: italic,
+  cap-height: 0.75
+) !default;
+
+.footer {
+    background-color: grey !important; 
+}
+
+// Font import, if you're using a non-standard web font
+@import url("https://fonts.googleapis.com/css?family=Manrope:400,700");
+
+@import "alembic";
