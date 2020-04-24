@@ -1,9 +1,10 @@
-# Starter kit for [Alembic](https://alembic.darn.es/)
+# CUMBERLAND VALLEY COLLECTIVE
+### Official website and blog
 
-This is a very simple starting point if you wish to use Alembic [as a Jekyll theme gem](https://alembic.darn.es/#as-a-jekyll-theme) or as a [GitHub Pages remote theme](https://github.com/daviddarnes/alembic-kit/tree/remote-theme) (see `remote-theme` branch).
+Here's where our website holds all of its content. 
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-kit)
+#### You're probably here to add a blog post. 
 
-or
-
-**[Download the GitHub Pages kit](https://github.com/daviddarnes/alembic-kit/archive/remote-theme.zip)**
+1. Create a new file in the '_posts' folder. 
+1. Check out prior blog posts for a feel of formatting in order for the post to work correctly. 
+1. Posts are written in Markdown, a text based formatter. [Markdown Cheatsheet.](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
