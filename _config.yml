@@ -56,4 +56,4 @@ collections:
     description: "Race reports, ride stories, and other news"
     feature_text: |
       <div style="display:none">Cumberland Cycling Collective Blog</div>
-    feature_image: "/img/ian-climbing.jpg"
+    feature_image: "/img/ian-climb.jpg"
