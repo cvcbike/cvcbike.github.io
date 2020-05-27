@@ -7,3 +7,5 @@ feature_image: "/img/everesting.png"
 ---
 
 We rode 250 miles and 29,029 feet. It was rad. 
+
+<img src="/img/everesting.png">
