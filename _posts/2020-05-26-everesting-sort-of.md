@@ -7,4 +7,4 @@ categories:
 feature_image: "/img/everesting.png"
 ---
 
-This is my very first blog post. There's nothing here yet, but there's about to be! 
+We rode 250 miles and 29029 feet. It was rad. 
