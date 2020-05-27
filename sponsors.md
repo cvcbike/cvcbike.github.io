@@ -1,10 +1,17 @@
 ---
 layout: page
-title: CVC's Generous Sponsors
+title: <div style="color:black">CVC's Generous Sponsors</div>
 ---
 
-We're sponsored by THE coolest companies. 
+We're proudly sponsored by THE coolest companies. 
 
-GEARHOUSE.
+GEARHOUSE BREWING COMPANY.
+
 GETTYSBURG BICYCLE.
+
+SPECIALIZED.
+
+TEAM I HATE CANCER.
+
+
 
