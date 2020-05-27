@@ -51,7 +51,7 @@ navigation_footer:
 # Collections
 collections:
   posts:
-    title: <div style="color:black">Posts</div>
+    title: 
     output: true
     description: "Race reports, ride stories, and other news"
     feature_text: |
