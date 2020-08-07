@@ -5,7 +5,7 @@ feature_image: "/img/header.jpg"
 ---
 
 <script>window.open( 
-              "http://darinalleman.xyz", "_blank");</script>
+              "http://shop.cvc.bike", "_blank");</script>
 
 
 
