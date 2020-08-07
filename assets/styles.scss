@@ -50,6 +50,12 @@ $bodytype: (
 .article {
   width: 100% !important;
 }
+
+.padding
+{
+padding: 25px 25px 25px 25px;
+}
+
 // Font import, if you're using a non-standard web font
 @import url("https://fonts.googleapis.com/css?family=Manrope:400,700");
 
