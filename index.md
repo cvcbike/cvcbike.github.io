@@ -8,7 +8,7 @@ feature_text: |
 <div class="events-container">
   <div class="events">
     <p>Upcoming Events</p>
-    <p>Event 1</p>
+    <p>TNR TOMORROW OH FUK</p>
     <p>Event 2</p>
     <p>Event 3</p>
   </div>
