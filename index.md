@@ -3,9 +3,14 @@ title:
 layout: page
 feature_image: "/img/header.jpg"
 feature_text: |
-  # CUMBERLAND VALLEY
-  # COLLECTIVE
-  ###### A group of cyclists from South Central PA that enjoy racing bikes and encourage cycling in the community.
 ---
 
-There isn't much going on here yet, but watch this space
+<div class="events-container">
+  <div class="events">
+    <p>Upcoming Events</p>
+    <p>Event 1</p>
+    <p>Event 2</p>
+    <p>Event 3</p>
+  </div>
+</div>
+<div class="body-container">There isn't much going on here yet, but watch this space</div>

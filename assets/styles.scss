@@ -2,9 +2,10 @@
 title: false
 styles: true
 ---
-$backgroundColour: #dedede !default;
+$backgroundColour: #ffffff !default;
 $linkColour: #ce6e00 !default;
-$headingColour: #ffffff !default;
+$hoverColour: #000000 !default;
+$headingColour: #70b1ff !default;
 $headingtype: (
   font-family: '"Manrope", serif',
   regular: 400,
@@ -25,6 +26,30 @@ $bodytype: (
     background-color: grey !important; 
 }
 
+.events {
+  p {
+    padding-left: 5px;
+    margin-bottom: .25em !important;
+  }
+}
+.events-container {
+  display: inline;
+  float:left; 
+  width: 25%; 
+  font-size: .75em; 
+  border: solid black 1px;
+}
+
+.body-container {
+  display:inline;
+  float:right;
+  width:75%;
+  padding-left:10px;
+}
+
+.article {
+  width: 100% !important;
+}
 // Font import, if you're using a non-standard web font
 @import url("https://fonts.googleapis.com/css?family=Manrope:400,700");
 
