@@ -11,14 +11,14 @@ feature_image: "/img/header.jpg"
 <b>Why is cycling so important?</b> because text text text text because text text text text because text text text text because text text text text because text text text text because text text text text because text text text text because </p>
 <br>
 <h2>Darin Alleman</h2>
-<p><img src="/img/hs_darin.jpg" alt="Darin" style="float:left;width:200px;height:200px;border:1px solid black;">
+<p><img src="/img/hs_darin.jpg" alt="Darin" style="float:left;width:200px;height:200px;padding:10px">
 <b>Location:</b> Fredericksburg, VA <br>
 <b>Discipline:</b> Cat 3 Road, Cat 3 CX <br>
 <b>Fun Fact:</b> Fattest calves <br>
 <b>Why is cycling so important?</b> because text text text text because text text text text because text text text text because text text text text because text text text text because text text text text because text text text text because </p>
 <br>
 <h2>Kyle Irwin</h2>
-<p><img src="/img/hs_kyle.jpg" alt="Kyle" style="float:left;width:200px;height:200px;border:1px solid black;">
+<p><img src="/img/hs_kyle.jpg" alt="Kyle" style="float:left;width:200px;height:200px;padding:10px">
 <b>Location:</b> Hagerstown, MD <br>
 <b>Discipline:</b> Cat 3 Road, Cat 5 CX <br>
 <b>Fun Fact:</b> Fattest <br>
