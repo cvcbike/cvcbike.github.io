@@ -25,7 +25,7 @@ feature_image: "/img/header.jpg"
  </p>
 <br>
 <h2>Ian Atwood</h2>
-<p><img src="/img/Ian.png" alt="Ian" style="float:left;width:200px;height:200px;padding:10px">
+<p><img src="/img/Ian.PNG" alt="Ian" style="float:left;width:200px;height:200px;padding:10px">
 <b>Location:</b> Dallastown, PA <br>
 <b>Discipline:</b> Cat 4 Road, Cat 5 CX <br>
 <b>Fun Fact:</b> Team Dad <br>
