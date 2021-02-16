@@ -6,15 +6,15 @@ feature_image: "/img/header.jpg"
 
 We're proudly sponsored by and support THE coolest companies. 
 
-<a href="https://gearhousebrewingco.com/">GEARHOUSE BREWING COMPANY beer.</a>
+beer: <a href="https://gearhousebrewingco.com/">GEARHOUSE BREWING COMPANY.</a>
 
-<a href="https://gettysburgbicycle.com/">GETTYSBURG BICYCLE shop.</a>
+bike shop: <a href="https://gettysburgbicycle.com/">GETTYSBURG BICYCLE.</a>
 
-<a href="https://wishfulroasting.com">WISHFUL ROASTING coffee.</a>
+coffee: <a href="https://wishfulroasting.com">WISHFUL ROASTING.</a>
 
-<a href="https://www.specialized.com/us/en">SPECIALIZED bikes.</a>
+bikes: <a href="https://www.specialized.com/us/en">SPECIALIZED.</a>
 
-<a href="https://www.teamihatecancer.com/">TEAM I HATE CANCER.</a>
+hate for good: <a href="https://www.teamihatecancer.com/">TEAM I HATE CANCER.</a>
 
 
 
