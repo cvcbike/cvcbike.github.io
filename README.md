@@ -24,7 +24,7 @@ Here's where our website holds all of its content.
 
 * When you're done and you're sure the changes are good and everything is perfect, just the way you want it to be on the live site, go back to your terminal and do the following
 * `git pull` --this will pull down the latest changes from github and integrate them with what you have, just in case someone else has committed something since you last pulled
-* `git add .` --this stages all of your changes
+* `git add .` --Don't forget the `.` since this stages all of your changes
 * `git commit -m 'Your commit message here, basically describe your changes'` --this commits your changes locally
 * `git push origin master` --this pushes your local changes up to github
 * Then check this page to see your changes. CVC.bike will update in less than a few minutes. 
