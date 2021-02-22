@@ -23,7 +23,8 @@ Here's where our website holds all of its content.
 1. Now you can make changes to the files. Some files you update will automatically be refreshed on the site, other files you'll need to stop the server (hit `ctrl-c` in the terminal) and restart it to see the changes.
 
 * When you're done and you're sure the changes are good and everything is perfect, just the way you want it to be on the live site, go back to your terminal and do the following
-* `git add .`
-* `git commit -m 'Your commit message here, basically describe your changes'`
-* `git push origin master`
+* `git pull` --this will pull down the latest changes from github and integrate them with what you have, just in case someone else has committed something since you last pulled
+* `git add .` --this stages all of your changes
+* `git commit -m 'Your commit message here, basically describe your changes'` --this commits your changes locally
+* `git push origin master` --this pushes your local changes up to github
 * Then check this page to see your changes. CVC.bike will update in less than a few minutes. 
