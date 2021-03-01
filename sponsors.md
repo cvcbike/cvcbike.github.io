@@ -4,15 +4,17 @@ title: <div style="color:black">CVC's Generous Sponsors</div>
 feature_image: "/img/header.jpg"
 ---
 
-We're proudly sponsored by THE coolest companies. 
+We're proudly sponsored by and support THE coolest companies. 
 
-GEARHOUSE BREWING COMPANY.
+beer: <a href="https://gearhousebrewingco.com/">GEARHOUSE BREWING COMPANY.</a>
 
-GETTYSBURG BICYCLE.
+bike shop: <a href="https://gettysburgbicycle.com/">GETTYSBURG BICYCLE.</a>
 
-SPECIALIZED.
+coffee: <a href="https://wishfulroasting.com">WISHFUL ROASTING.</a>
 
-TEAM I HATE CANCER.
+bikes: <a href="https://www.specialized.com/us/en">SPECIALIZED.</a>
+
+hate for good: <a href="https://www.teamihatecancer.com/">TEAM I HATE CANCER.</a>
 
 
 
