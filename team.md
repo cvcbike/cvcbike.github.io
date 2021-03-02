@@ -4,6 +4,10 @@ title: <div style="color:black;">Meet the team</div>
 feature_image: "/img/header.jpg"
 ---
 
+ 
+
+<h1>Simple and Responsive CSS Image Grid</h1>
+<p>And it works also for other content, not only images ✌😏</p>
 <div class="myGallery">
   <div class="item">
     <img src="/img/hs_ian.jpeg" alt="Ian" class="image"/>
