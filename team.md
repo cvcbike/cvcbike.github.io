@@ -37,7 +37,7 @@ feature_image: "/img/header.jpg"
 <div class="myGallery">
   <div class="item">
     <img src="/img/hs_ian.jpeg" alt="Ian" class="image"/>
-    <div class="overlay">Ian Atwood<br>Dallastown, PA<br>Cat 4 Road, Cat 5 CX</div>
+    <span class="caption">Ian Atwood<br>Dallastown, PA<br>Cat 4 Road, Cat 5 CX</span>
   </div>
   <div class="item">
     <img src="https://picsum.photos/190/190?12" />
