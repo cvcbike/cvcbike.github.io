@@ -3,32 +3,36 @@ layout: page
 title: <div style="color:black;">Meet the team</div>
 feature_image: "/img/header.jpg"
 ---
-<h2>Nathan Goates</h2>
-<p><img src="/img/hs_goates.jpg" alt="Goates" style="float:left;width:200px;height:200px;padding:10px">
-<b>Location:</b> Shippensburg, PA <br>
-<b>Discipline:</b> Cat 2 Road, Cat 2 CX, Cat 2 MTB <br>
-<b>Fun Fact:</b> Longest beard <br>
- </p>
-<br>
-<h2>Darin Alleman</h2>
-<p><img src="/img/hs_darin.jpg" alt="Darin" style="float:left;width:200px;height:200px;padding:10px">
-<b>Location:</b> Fredericksburg, VA <br>
-<b>Discipline:</b> Cat 3 Road, Cat 3 CX <br>
-<b>Fun Fact:</b> Fattest calves <br>
- </p>
-<br>
-<h2>Kyle Irwin</h2>
-<p><img src="/img/hs_kyle.jpg" alt="Kyle" style="float:left;width:200px;height:200px;padding:10px">
-<b>Location:</b> Hagerstown, MD <br>
-<b>Discipline:</b> Cat 3 Road, Cat 5 CX <br>
-<b>Fun Fact:</b> Fattest <br>
- </p>
-<br>
-<h2>Ian Atwood</h2>
-<p><img src="/img/ian.png" alt="Ian" style="float:left;width:200px;height:200px;padding:10px">
-<b>Location:</b> Dallastown, PA <br>
-<b>Discipline:</b> Cat 4 Road, Cat 5 CX <br>
-<b>Fun Fact:</b> Team Dad <br>
-</p>
+<table>
+<tr>
+    <td>
+        <div class="overlaycontainer">
+        <img src="/img/hs_goates.jpg" alt="Goates" class="image">
+        <div class="overlay">Nathan Goates<br>Shippensburg, PA<br> Cat 2 Road/CX/MTB</div>
+        </div>
+    </td>
+    <td>
+        <div class="overlaycontainer">
+            <img src="/img/hs_darin.jpg" alt="Darin" class="image">
+            <div class="overlay">Darin Alleman<br>Fredericksburg, VA<br>Cat 3 Road, Cat 3 CX</div>
+        </div>
+    </td>
+</tr>
+<tr>
+    <td>
+        <div class="overlaycontainer">
+            <img src="/img/hs_kyle.jpg" alt="Kyle" class="image">
+            <div class="overlay">Kyle Irwin<br>Hagerstown, MD<br>Cat 3 Road, Cat 5 CX</div>
+        </div>
+    </td>
+    <td>
+        <div class="overlaycontainer">
+            <img src="/img/ian.png" alt="Ian" class="image">
+            <div class="overlay">Ian Atwood<br>Dallastown, PA<br>Cat 4 Road, Cat 5 CX</div>
+        </div>
+    </td>
+</tr>
+
+
 
 
