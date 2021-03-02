@@ -1,7 +1,7 @@
 ---
 layout: page
 title: <div style="color:black;">Meet the team</div>
-feature_image: "/img/header.jpg"
+feature_image: "/img/hdr_team.jpeg"
 ---
 
  
