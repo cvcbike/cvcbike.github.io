@@ -35,18 +35,8 @@ feature_image: "/img/header.jpg"
 <h1>Simple and Responsive CSS Image Grid</h1>
 <p>And it works also for other content, not only images ✌😏</p>
 <div class="myGallery">
-  <img src="https://picsum.photos/190/190?1" />
-  <img src="https://picsum.photos/190/190?2" />
-  <img src="https://picsum.photos/190/190?3" />
-  <img src="https://picsum.photos/190/190?4" />
-  <img src="https://picsum.photos/190/190?5" />
-  <img src="https://picsum.photos/190/190?6" />
-  <img src="https://picsum.photos/190/190?7" />
-  <img src="https://picsum.photos/190/190?8" />
-  <img src="https://picsum.photos/190/190?9" />
-  <img src="https://picsum.photos/190/190?10" />
   <div class="item">
-    <img src="https://picsum.photos/190/190?11" />
+    <img src="/img/hs_ian.jpeg" alt="Ian" class="image"/>
     <span class="caption">This is an image caption for image 11</span>
   </div>
   <div class="item">
