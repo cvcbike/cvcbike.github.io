@@ -37,12 +37,15 @@ $bodytype: (
   min-height: 500px;
   order: 2;
   flex-grow: 1;
+  max-width: 30%;
 }
 
 .body-container {
-  padding-right:10px;
+  padding-right:15px;
   order:1;
-  flex-grow:4;  
+  flex-grow:4; 
+  max-width: 70%;
+ 
 }
 
 .flex-container {
