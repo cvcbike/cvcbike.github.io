@@ -162,7 +162,8 @@ padding: 25px 25px 25px 25px;
 
 .myGallery .item {
   position: relative;
-  overflow: hidden;
+  width: 50%;
+  max-width: 300px;
 }
 
 .myGallery .item img {
