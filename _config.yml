@@ -35,12 +35,8 @@ paginate_path: blog/page:num
 navigation_header:
 - title: Home
   url: /
-- title: Our Mission
-  url: /ourmission/
-- title: Team
+- title: About Us
   url: /team/
-- title: Sponsors
-  url: /sponsors/
 - title: Events
   url: /events/
 - title: Blog
