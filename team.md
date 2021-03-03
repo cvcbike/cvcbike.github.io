@@ -54,6 +54,10 @@ feature_image: "/img/hdr_team.jpeg"
     <span class="caption">Jake Haines<br>Harrisburg, PA<br> Cat 3 Road, Cat 4 CX</span>
     </div>
     <div class="item">
+    <img src="/img/hs_paul.jpg" alt="Paul" class="image"/>
+    <span class="caption">Paul Frandsen<br>Provo, UT<br> Cat 4 Road, Cat 3 CX</span>
+    </div>
+    <div class="item">
     <img src="/img/hs_faceless.jpg" alt="Josh" class="image"/>
     <span class="caption">Josh Beck<br>Carlisle, PA<br> Cat 1 Road</span>
     </div>
@@ -64,10 +68,6 @@ feature_image: "/img/hdr_team.jpeg"
     <div class="item">
     <img src="/img/hs_faceless.jpg" alt="Christopher" class="image"/>
     <span class="caption">Christopher Woltemade<br>Shippensburg, PA<br> Cat 3 Road, Cat 3 CX</span>
-    </div>
-    <div class="item">
-    <img src="/img/hs_faceless.jpg" alt="Paul" class="image"/>
-    <span class="caption">Paul Frandsen<br>Provo, UT<br> Cat 4 Road, Cat 3 CX</span>
     </div>
     <div class="item">
     <img src="/img/hs_faceless.jpg" alt="Chuck" class="image"/>
