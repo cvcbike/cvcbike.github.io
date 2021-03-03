@@ -73,6 +73,10 @@ feature_image: "/img/hdr_team.jpeg"
     <img src="/img/hs_faceless.jpg" alt="Chuck" class="image"/>
     <span class="caption">Chuck Steppe<br>Carlisle, PA<br> Cat 5 Road</span>
     </div>
+    <div class="item">
+    <img src="/img/hs_faceless.jpg" alt="Connor" class="image"/>
+    <span class="caption">Connor Something<br>Somewhere, PA<br> Cat 2 Road</span>
+    </div>
 </div>
 
 
