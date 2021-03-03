@@ -94,7 +94,7 @@ beer:
 
 bike shop: <a href="https://gettysburgbicycle.com/">GETTYSBURG BICYCLE.</a>
 
-coffee: <a href="https://wishfulroasting.com">WISHFUL ROASTING.</a>
+coffee: <a href="https://wishfulroasting.com">WISHFUL ROASTING.</a> USE CODE <b>CVCTEAM</b> FOR 10% OFF YOUR NEXT ORDER!
 
 bikes: <a href="https://www.specialized.com/us/en">SPECIALIZED.</a>
 
