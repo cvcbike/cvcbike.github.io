@@ -8,6 +8,7 @@ Content here...
 
 
 <h3>Meet the Team</h3>
+
 <div class="myGallery">
   <div class="item">
     <img src="/img/hs_ian.jpeg" alt="Ian" class="image"/>
@@ -82,7 +83,7 @@ Content here...
     <span class="caption">Colin McKenna<br>Somewhere, PA<br> Cat 3 Road</span>
     </div>
 </div>
-<h3>Our Gengerous Sponsors:</h3>
+<h3>Those That Power The Collective:</h3>
 
 We're proudly sponsored by and support THE coolest companies. 
 
