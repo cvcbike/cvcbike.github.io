@@ -94,7 +94,7 @@ beer:
 
 bike shop: 
 <a href="https://gettysburgbicycle.com/">
-<img src="/img/logo_gb.png" alt="Gettysburg Bicycle" class="image" width="300"/>
+<img src="/img/logo_gb.png" alt="Gettysburg Bicycle" />
 </a>
 
 coffee: 
