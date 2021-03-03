@@ -74,8 +74,8 @@ feature_image: "/img/hdr_team.jpeg"
     <span class="caption">Chuck Steppe<br>Carlisle, PA<br> Cat 5 Road</span>
     </div>
     <div class="item">
-    <img src="/img/hs_faceless.jpg" alt="Connor" class="image"/>
-    <span class="caption">Connor Something<br>Somewhere, PA<br> Cat 2 Road</span>
+    <img src="/img/hs_faceless.jpg" alt="Colin" class="image"/>
+    <span class="caption">Colin McKenna<br>Somewhere, PA<br> Cat 3 Road</span>
     </div>
 </div>
 
