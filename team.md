@@ -87,15 +87,10 @@ Content here...
 
 We're proudly sponsored by and support THE coolest companies. 
 
-<div class="myGallery">
-  <div class="item">
-    beer: 
-    <a href="https://gearhousebrewingco.com/">
-    <img src="/img/logo_gh.PNG" alt="Gearhouse" class="image"/>
-    <span class="caption">GEARHOUSE BREWING COMPANY.</span>
-    </a>
-  </div>
-</div>
+beer: 
+  <a href="https://gearhousebrewingco.com/">
+  <img src="/img/logo_gh.PNG" alt="Gearhouse" class="image" size=80%/>
+  </a>
 
 bike shop: <a href="https://gettysburgbicycle.com/">GETTYSBURG BICYCLE.</a>
 
