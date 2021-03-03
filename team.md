@@ -92,10 +92,23 @@ beer:
   <img src="/img/logo_gh.PNG" alt="Gearhouse" class="image"/>
   </a>
 
-bike shop: <a href="https://gettysburgbicycle.com/">GETTYSBURG BICYCLE.</a>
+bike shop: 
+<a href="https://gettysburgbicycle.com/">
+<img src="/img/logo_gb.png" alt="Gettysburg Bicycle" class="image"/>
+</a>
 
-coffee: <a href="https://wishfulroasting.com">WISHFUL ROASTING.</a> USE CODE <b>CVCTEAM</b> FOR 10% OFF YOUR NEXT ORDER!
+coffee: 
+<a href="https://wishfulroasting.com">
+<img src="/img/logo_wishful.jpg" alt="Wishful Roasting" class="image"/>
+</a> 
+USE CODE <b>CVCTEAM</b> FOR 10% OFF YOUR NEXT ORDER!
 
-bikes: <a href="https://www.specialized.com/us/en">SPECIALIZED.</a>
+bikes: 
+<a href="https://www.specialized.com/us/en">
+<img src="/img/logo_spec.png" alt="Specialized Bikes" class="image"/>
+</a>
 
-hate for good: <a href="https://www.teamihatecancer.com/">TEAM I HATE CANCER.</a>
+hate for good: 
+<a href="https://www.teamihatecancer.com/">
+<img src="/img/logo_tihc.PNG" alt="Team I Hate Canceer" class="image"/>
+</a>
