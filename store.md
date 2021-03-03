@@ -8,4 +8,4 @@ feature_image: "/img/header.jpg"
               "http://shop.cvc.bike", "_blank");</script>
 
 
-If a new tab didn't open with our store, click here: <a href="http://shop.cvc.bike">shop.cvc.bike</a>
+If you weren't redirected, click here: <a href="http://shop.cvc.bike">shop.cvc.bike</a>
