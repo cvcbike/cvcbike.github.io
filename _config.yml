@@ -47,6 +47,9 @@ navigation_header:
   url: /blog/
 - title: Store
   url: /store/
+- title: Instagram
+  url: http://instagram.com/cvc.bike
+  image: /img/logo_ig.png
 
 
 # Footer nav
