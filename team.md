@@ -4,10 +4,6 @@ title: <div style="color:black;">Meet the team</div>
 feature_image: "/img/hdr_team.jpeg"
 ---
 
- 
-
-
-
 <div class="myGallery">
   <div class="item">
     <img src="/img/hs_ian.jpeg" alt="Ian" class="image"/>
@@ -52,6 +48,10 @@ feature_image: "/img/hdr_team.jpeg"
     <div class="item">
     <img src="/img/hs_ben.jpeg" alt="Ben" class="image"/>
     <span class="caption">Ben Shrewsberry<br>Raleigh, NC<br> Cat 2 Road</span>
+    </div>
+    <div class="item">
+    <img src="/img/hs_jake.jpeg" alt="Jake" class="image"/>
+    <span class="caption">Jake Haines<br>Harrisburg, PA<br> Cat 3 Road, Cat 4 CX</span>
     </div>
 </div>
 
