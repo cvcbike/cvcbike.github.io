@@ -12,6 +12,7 @@ feature_text: |
   
   <h3>2021 Team Organized Events</h3>
   Shippensburg Scurry - CANCELLED FOR 2021 <i>*See you in 2022!</i>
+  
   Cyclocross Event 2021 - TBD
 
   <h3>Community Rides</h3>
