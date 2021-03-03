@@ -1,9 +1,13 @@
 ---
 layout: page
-title: <div style="color:black;">Meet the team</div>
+title: <div style="color:black;">The Collective</div>
 feature_image: "/img/hdr_team.jpeg"
 ---
+<h3>Our Mission:</h3>
+Content here...
 
+
+<h3>Meet the Team</h3>
 <div class="myGallery">
   <div class="item">
     <img src="/img/hs_ian.jpeg" alt="Ian" class="image"/>
@@ -78,6 +82,16 @@ feature_image: "/img/hdr_team.jpeg"
     <span class="caption">Colin McKenna<br>Somewhere, PA<br> Cat 3 Road</span>
     </div>
 </div>
+<h3>Our Gengerous Sponsors:</h3>
 
+We're proudly sponsored by and support THE coolest companies. 
 
+beer: <a href="https://gearhousebrewingco.com/">GEARHOUSE BREWING COMPANY.</a>
 
+bike shop: <a href="https://gettysburgbicycle.com/">GETTYSBURG BICYCLE.</a>
+
+coffee: <a href="https://wishfulroasting.com">WISHFUL ROASTING.</a>
+
+bikes: <a href="https://www.specialized.com/us/en">SPECIALIZED.</a>
+
+hate for good: <a href="https://www.teamihatecancer.com/">TEAM I HATE CANCER.</a>
