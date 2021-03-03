@@ -89,7 +89,7 @@ We're proudly sponsored by and support THE coolest companies.
 
 beer: 
   <a href="https://gearhousebrewingco.com/">
-  <img src="/img/logo_gh.PNG" alt="Gearhouse" class="image"/>
+  <img src="/img/logo_gh.PNG" alt="Gearhouse" />
   </a>
 
 bike shop: 
@@ -99,16 +99,16 @@ bike shop:
 
 coffee: 
 <a href="https://wishfulroasting.com">
-<img src="/img/logo_wishful.jpg" alt="Wishful Roasting" class="image"/>
+<img src="/img/logo_wishful.jpg" alt="Wishful Roasting" />
 </a> 
 USE CODE <b>CVCTEAM</b> FOR 10% OFF YOUR NEXT ORDER!
 
 bikes: 
 <a href="https://www.specialized.com/us/en">
-<img src="/img/logo_spec.png" alt="Specialized Bikes" class="image"/>
+<img src="/img/logo_spec.png" alt="Specialized Bikes" />
 </a>
 
 hate for good: 
 <a href="https://www.teamihatecancer.com/">
-<img src="/img/logo_tihc.PNG" alt="Team I Hate Canceer" class="image"/>
+<img src="/img/logo_tihc.PNG" alt="Team I Hate Canceer" />
 </a>
