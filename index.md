@@ -14,7 +14,7 @@ feature_text: |
   Shippensburg Scurry - CANCELLED FOR 2021 <i>*See you in 2022!</i>
   <br>
   Cyclocross Event 2021 - TBD
-
+<img src="/img/body_img.jpeg" />
   <h3>Community Rides</h3>
   Keep an eye on our Instagram for community rides in the Cumberland Valley. These rides can be sometimes mentally and physically exhausting from the length of time, the amount of climbing, the pace, and the constant banter amongst ourselves. If interested in joining a group ride DM us! 
 
