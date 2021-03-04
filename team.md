@@ -31,10 +31,6 @@ Content here...
     <span class="caption">Noah Koppenhaver<br>Millersburg, PA<br> Cat 3 Road</span>
     </div>
     <div class="item">
-    <img src="/img/hs_charlie.jpeg" alt="Charlie" class="image"/>
-    <span class="caption">Charlie Larsen<br>York, PA<br> Cat 3 Road</span>
-    </div>
-    <div class="item">
     <img src="/img/hs_andy.jpeg" alt="Andy" class="image"/>
     <span class="caption">Andy Wolfe<br>Philadelphia, PA<br> Cat 5 Road</span>
     </div>
@@ -57,6 +53,10 @@ Content here...
     <div class="item">
     <img src="/img/hs_cw.jpeg" alt="Christopher" class="image"/>
     <span class="caption">Christopher Woltemade<br>Shippensburg, PA<br> Cat 3 Road/CX</span>
+    </div>
+    <div class="item">
+    <img src="/img/hs_charlie.jpeg" alt="Charlie" class="image"/>
+    <span class="caption">Charlie Larsen<br>York, PA<br> Cat 3 Road</span>
     </div>
     <div class="item">
     <img src="/img/hs_ben.jpeg" alt="Ben" class="image"/>
