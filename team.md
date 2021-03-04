@@ -51,20 +51,20 @@ Content here...
     <span class="caption">Jon Marshall<br>Shippensburg, PA<br>Cat 1 Road</span>
     </div>
     <div class="item">
-    <img src="/img/hs_ben.jpeg" alt="Ben" class="image"/>
-    <span class="caption">Ben Shrewsberry<br>Raleigh, NC<br> Cat 2 Road</span>
-    </div>
-    <div class="item">
-    <img src="/img/hs_jake.jpeg" alt="Jake" class="image"/>
-    <span class="caption">Jake Haines<br>Harrisburg, PA<br> Cat 3 Road, Cat 4 CX</span>
-    </div>
-    <div class="item">
     <img src="/img/hs_paul.jpeg" alt="Paul" class="image"/>
     <span class="caption">Paul Frandsen<br>Provo, UT<br> Cat 4 Road, Cat 3 CX</span>
     </div>
     <div class="item">
     <img src="/img/hs_cw.jpeg" alt="Christopher" class="image"/>
     <span class="caption">Christopher Woltemade<br>Shippensburg, PA<br> Cat 3 Road/CX</span>
+    </div>
+    <div class="item">
+    <img src="/img/hs_ben.jpeg" alt="Ben" class="image"/>
+    <span class="caption">Ben Shrewsberry<br>Raleigh, NC<br> Cat 2 Road</span>
+    </div>
+    <div class="item">
+    <img src="/img/hs_jake.jpeg" alt="Jake" class="image"/>
+    <span class="caption">Jake Haines<br>Harrisburg, PA<br> Cat 3 Road, Cat 4 CX</span>
     </div>
     <div class="item">
     <img src="/img/hs_faceless.jpg" alt="Josh" class="image"/>
