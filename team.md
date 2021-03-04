@@ -63,7 +63,7 @@ Content here...
     <span class="caption">Paul Frandsen<br>Provo, UT<br> Cat 4 Road, Cat 3 CX</span>
     </div>
     <div class="item">
-    <img src="/img/hs_cw.jpg" alt="Christopher" class="image"/>
+    <img src="/img/hs_cw.jpeg" alt="Christopher" class="image"/>
     <span class="caption">Christopher Woltemade<br>Shippensburg, PA<br> Cat 3 Road, Cat 3 CX</span>
     </div>
     <div class="item">
