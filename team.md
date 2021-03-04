@@ -64,7 +64,7 @@ Content here...
     </div>
     <div class="item">
     <img src="/img/hs_cw.jpeg" alt="Christopher" class="image"/>
-    <span class="caption">Christopher Woltemade<br>Shippensburg, PA<br> Cat 3 Road, Cat 3 CX</span>
+    <span class="caption">Christopher Woltemade<br>Shippensburg, PA<br> Cat 3 Road/CX</span>
     </div>
     <div class="item">
     <img src="/img/hs_faceless.jpg" alt="Josh" class="image"/>
