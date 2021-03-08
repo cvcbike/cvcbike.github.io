@@ -44,7 +44,7 @@ Content here...
     </div>
     <div class="item">
     <img src="/img/hs_JB.jpeg" alt="JB" class="image"/>
-    <span class="caption">JB<br>Philadelphia, PA<br>PRO TTT'r</span>
+    <span class="caption">JB Haglund<br>Philadelphia, PA<br>Cat 3 Road, Pro TTT'r</span>
     </div>
     <div class="item">
     <img src="/img/hs_jon.jpeg" alt="Jon" class="image"/>
