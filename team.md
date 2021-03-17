@@ -39,6 +39,10 @@ Content here...
     <span class="caption">Ben Shrewsberry<br>Raleigh, NC<br> Cat 2 Road</span>
     </div>
     <div class="item">
+    <img src="/img/hs_charlie.jpeg" alt="Charlie" class="image"/>
+    <span class="caption">Charlie Larsen<br>York, PA<br> Cat 3 Road</span>
+    </div>
+    <div class="item">
     <img src="/img/hs_nelson.jpeg" alt="Nelson" class="image"/>
     <span class="caption">Nelson Biemfohr<br>Blacksburg, VA<br> Cat 3 Road/CX/MTB</span>
     </div>
@@ -57,10 +61,6 @@ Content here...
     <div class="item">
     <img src="/img/hs_cw.jpeg" alt="Christopher" class="image"/>
     <span class="caption">Christopher Woltemade<br>Shippensburg, PA<br> Cat 3 Road/CX</span>
-    </div>
-    <div class="item">
-    <img src="/img/hs_charlie.jpeg" alt="Charlie" class="image"/>
-    <span class="caption">Charlie Larsen<br>York, PA<br> Cat 3 Road</span>
     </div>
     <div class="item">
     <img src="/img/hs_jake.jpeg" alt="Jake" class="image"/>
