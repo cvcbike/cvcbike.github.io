@@ -43,6 +43,10 @@ Content here...
     <span class="caption">Charlie Larsen<br>York, PA<br> Cat 3 Road</span>
     </div>
     <div class="item">
+    <img src="/img/hs_james.jpeg" alt="James" class="image"/>
+    <span class="caption">James Bolze<br>Carlisle, PA<br> Cat 5 Road</span>
+    </div>
+    <div class="item">
     <img src="/img/hs_nelson.jpeg" alt="Nelson" class="image"/>
     <span class="caption">Nelson Biemfohr<br>Blacksburg, VA<br> Cat 3 Road/CX/MTB</span>
     </div>
@@ -71,16 +75,28 @@ Content here...
     <span class="caption">Josh Beck<br>Carlisle, PA<br> Cat 1 Road</span>
     </div>
     <div class="item">
-    <img src="/img/hs_faceless.jpg" alt="James" class="image"/>
-    <span class="caption">James Bolze<br>Carlisle, PA<br> Cat 5 Road</span>
-    </div>
-    <div class="item">
     <img src="/img/hs_faceless.jpg" alt="Chuck" class="image"/>
     <span class="caption">Chuck Steppe<br>Carlisle, PA<br> Cat 5 Road</span>
     </div>
     <div class="item">
     <img src="/img/hs_faceless.jpg" alt="Colin" class="image"/>
     <span class="caption">Colin McKenna<br>Somewhere, PA<br> Cat 3 Road</span>
+    </div>
+    <div class="item">
+    <img src="/img/hs_faceless.jpg" alt="Hamer" class="image"/>
+    <span class="caption">Hamer Farag<br>Somewhere, NJ<br> Cat 5 Road</span>
+    </div>
+    <div class="item">
+    <img src="/img/hs_faceless.jpg" alt="Nick" class="image"/>
+    <span class="caption">Nicholas Price<br>Somewhere, NJ<br> Cat 5 Road</span>
+    </div>
+    <div class="item">
+    <img src="/img/hs_faceless.jpg" alt="Matt" class="image"/>
+    <span class="caption">Matt Briggs<br>Shippensburg, PA<br> Cat 5 Road</span>
+    </div>
+    <div class="item">
+    <img src="/img/hs_faceless.jpg" alt="Kevin" class="image"/>
+    <span class="caption">Kevin Griffin<br>Millersville, PA<br> Cat 4 Road</span>
     </div>
 </div>
 <h3>Those That Power The Collective:</h3>
