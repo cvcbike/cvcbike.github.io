@@ -20,7 +20,7 @@ Kyle, Ben, Nathan, Scott, and I (Darin) loaded up our bikes with enough gear to 
 <div>
   
  
-![alt-text-1](/img/2021junebikepacking/jjgrocery1.jpg" "title-1") ![alt-text-2](/img/2021junebikepacking/jjgrocery2.jpg "title-2")
+![alt-text-1](/img/2021junebikepacking/jjgrocery1.jpg "title-1") ![alt-text-2](/img/2021junebikepacking/jjgrocery2.jpg "title-2")
 
 
 A quaint store that also sells hot food, but at 10:30a we just stocked up on drinks and snacks to make it through to the next store at mile 125. 
