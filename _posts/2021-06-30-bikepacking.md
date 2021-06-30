@@ -13,14 +13,8 @@ A few collectivists took a trip down to Blacksburg, Virginia to do a bit of bike
 Day 1
 -----
 Kyle, Ben, Nathan, Scott, and I (Darin) loaded up our bikes with enough gear to camp out for two nights out in the woods. After a brief highway climb on pavement, the we were on gravel and sending it down a forest road towards the New River. After 25 miles of pavement, we took a quick detour to stop at J&J's grocery for some snacks. 
-
-<div style="display:flex">
-  <img style="width:50%" src="/img/2021junebikepacking/jjgrocery1.jpg"/>
-  <img style="width:50%" src="/img/2021junebikepacking/jjgrocery2.jpg"/>
-<div>
-  
  
-![alt-text-1](/img/2021junebikepacking/jjgrocery1.jpg "title-1") ![alt-text-2](/img/2021junebikepacking/jjgrocery2.jpg "title-2")
+![J&J's Grocery](/img/2021junebikepacking/jjgrocery1.jpg "title-1") ![J&J's Restock](/img/2021junebikepacking/jjgrocery2.jpg "title-2")
 
 
 A quaint store that also sells hot food, but at 10:30a we just stocked up on drinks and snacks to make it through to the next store at mile 125. 
