@@ -15,8 +15,8 @@ Day 1
 Kyle, Ben, Nathan, Scott, and I (Darin) loaded up our bikes with enough gear to camp out for two nights out in the woods. After a brief highway climb on pavement, the we were on gravel and sending it down a forest road towards the New River. After 25 miles of pavement, we took a quick detour to stop at J&J's grocery for some snacks. 
 
 <div style="display:flex">
-  <img style="flex:50%" src="/img/2021junebikepacking/jjgrocery1.jpg"/>
-  <img style="flex:50%" src="/img/2021junebikepacking/jjgrocery2.jpg"/>
+  <img style="width:50%" src="/img/2021junebikepacking/jjgrocery1.jpg"/>
+  <img style="width:50%" src="/img/2021junebikepacking/jjgrocery2.jpg"/>
 <div>
 
 
