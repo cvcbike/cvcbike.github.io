@@ -22,3 +22,7 @@ Being loaded up, we went up. Way up. From 1,700ft at J&J's all the way up to the
 It was worth the view.
 
 <img src="/img/2021junebikepacking/outlook.JPG"/>
+
+After descending back down the brutal rock wall, we were back on crushed gravel to descend off the mountain heading west towards our final destination for the day: Burkes Garden. Unfortunately, Kyle took a spill on some loose gravel around a tight turn and lost some skin. Thankfully we had some antibiotic ointment and some tegaderm so we got him cleaned up. Thankfully there was a flowing creek not 50ft from the crash site so we took the time to filter water and top off our reserves. 
+
+![Topping off water](/img/2021junebikepacking/kylecrashsite.jpg "Getting Kyle cleaned up and water topped off")
