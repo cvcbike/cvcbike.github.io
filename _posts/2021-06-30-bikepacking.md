@@ -22,4 +22,4 @@ Being loaded up, we went up. Way up. From 1,700ft at J&J's all the way up to the
 
 It was worth the view.
 
-<img src="img/2021junebikepacking/outlook.JPG"></img>
+<img src="/img/2021junebikepacking/outlook.JPG"></img>
