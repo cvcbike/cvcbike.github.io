@@ -19,8 +19,9 @@ Kyle, Ben, Nathan, Scott, and I (Darin) loaded up our bikes with enough gear to 
   <img style="width:50%" src="/img/2021junebikepacking/jjgrocery2.jpg"/>
 <div>
   
-:-------------------------:|:-------------------------:
-![](/img/2021junebikepacking/jjgrocery1.jpg")  |  ![]("/img/2021junebikepacking/jjgrocery2.jpg")
+ 
+![alt-text-1](/img/2021junebikepacking/jjgrocery1.jpg" "title-1") ![alt-text-2](/img/2021junebikepacking/jjgrocery2.jpg "title-2")
+
 
 A quaint store that also sells hot food, but at 10:30a we just stocked up on drinks and snacks to make it through to the next store at mile 125. 
 Being loaded up, we went up. Way up. From 1,700ft at J&J's all the way up to the top of Sugar Run Mountain just shy of 4,100ft. After climbing at 7.5% for 45 minutes, we were greeted with a gate and what looked like a wall of rocks. With the promise of a view of the valley at the top, we grinded up the remaining 350ft of climbing at nearly 15% average on golf-ball sized gravel. 
