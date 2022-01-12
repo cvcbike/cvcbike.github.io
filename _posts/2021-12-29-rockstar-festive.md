@@ -3,6 +3,7 @@ layout: post
 title: A Rockin' Festive 500
 categories:
 - Rides
+- Bikepacking
 feature_image: "/img/2021-rockstar-festive/10-group.jpg"
 ---
 
