@@ -10,8 +10,8 @@ feature_text: |
   </div>
   <div class="body-container">We're a collection of cyclists, racers, adventure riders, and overall bike vibin' dudes with the goal to make an impact on the race scene in the various disciplines of bikes while calling awareness to great causes that create a positive impact on the lives of others. <br>
   
-  <h3>2021 Team Organized Events</h3>
-  Shippensburg Scurry - 2022 <i>April 30 - May 1</i>
+  <h3>2022 Team Organized Events</h3>
+    <a href="https://www.bikereg.com/shippensburg-scurry">Shippensburg Scurry</a> <i>April 30 - May 1</i>
   <br>
   Cyclocross Event 2022 - TBD
 
