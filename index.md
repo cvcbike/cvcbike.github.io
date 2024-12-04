@@ -10,6 +10,9 @@ feature_text: |
   </div>
   <div class="body-container">We're a collection of cyclists, racers, adventure riders, and overall bike vibin' dudes with the goal to make an impact on the race scene in the various disciplines of bikes while calling awareness to great causes that create a positive impact on the lives of others. <br>
 
+  <h3>2025 Team Organized Event</h3>
+ Philadelphia Navy Yard Crit p/b Rothman Institute x CVC <i>April 6</i>
+
   <h3>Community Rides</h3>
   Keep an eye on our Instagram for community rides in the Cumberland Valley. These rides can be sometimes mentally and physically exhausting from the length of time, the amount of climbing, the pace, and the constant banter amongst ourselves. If interested in joining a group ride DM us! 
   <img src="/img/body_img.jpeg" />
