@@ -14,7 +14,7 @@ feature_text: |
  Philadelphia Navy Yard Crit p/b Rothman Institute x CVC <i>April 6</i>
 
   <h3>Community Rides - BTOGS</h3>
-  Join us on our BTOGS rides. <a href=/BTOGS>Check out more information here.</a><br>
+  Join us on our BTOGS rides. <a href="/BTOGS">Check out more information here.</a><br>
   Keep an eye on our Instagram for community rides in the Cumberland Valley. These rides can be sometimes mentally and physically exhausting from the length of time, the amount of climbing, the pace, and the constant banter amongst ourselves. If interested in joining a group ride DM us! 
   <img src="/img/body_img.jpeg" />
   <h3>Interested in Becoming a Partner/Sponsor?</h3>
