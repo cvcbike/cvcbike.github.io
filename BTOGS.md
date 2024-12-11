@@ -3,9 +3,15 @@ layout: page
 title: <div style="color:black">BTOGS</div>
 feature_image: "/img/header.jpg"
 ---
-
+<style>
+        img {
+            float: right;
+            margin-left: 15px;
+            margin-bottom: 10px;
+        }
+</style>
   <h3><u>b</u>e <u>t</u>here <u>o</u>r <u>g</u>et <u>s</u>lower</h3><br>
-  <img src="/img/btogs.png"><br>
+  <img src="/img/btogs.png" alt="btogs pic"><br>
 
   <h4>Season and Time</h4> Generally 9:00am in the colder months, earlier in the warm months - starting in December until April.<br><br>
   
