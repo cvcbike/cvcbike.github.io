@@ -14,7 +14,7 @@ feature_text: |
  Philadelphia Navy Yard Crit p/b Rothman Institute x CVC <i>April 6</i>
 
   <h3>Community Rides - BTOGS</h3>
-  <h2><b><u>b</b></u>e <b><u>t</b></u>here <b><u>o</b></u>r <b><u>g</b></u>et <b><u>s</b></u>lower</h2></br>
+  <h3><u>b</u>e <u>t</u>here <u>o</u>r <u>g</u>et <u>s</u>lower</h3></br>
   <b>Season and Time</b>: Generally 9:00am in the colder months, earlier in the warm months - starting in December until April.<br><br>
   
   <b>Location</b>: Meet at <a href="https://maps.app.goo.gl/nkssa2k9oqX38dA26">Gearhouse Brewery</a>. If driving to the start location, please park by the Hop Yard.<br><br> 
