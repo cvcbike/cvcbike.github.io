@@ -5,7 +5,7 @@ feature_image: "/img/header.jpg"
 ---
 
   <h3><u>b</u>e <u>t</u>here <u>o</u>r <u>g</u>et <u>s</u>lower</h3><br>
-  <img src="/img/btogs.png"></img><br>
+  <img src="/img/btogs.png"><br>
 
   <h4>Season and Time</h4> Generally 9:00am in the colder months, earlier in the warm months - starting in December until April.<br><br>
   
