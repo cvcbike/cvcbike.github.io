@@ -12,6 +12,7 @@ feature_image: "/img/header.jpg"
         .center-image {
             display: block;
             margin: 20px auto;
+            float: none;
         }
 </style>
   <h3><u>b</u>e <u>t</u>here <u>o</u>r <u>g</u>et <u>s</u>lower</h3>
