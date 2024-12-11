@@ -4,8 +4,7 @@ title: <div style="color:black;">The Collective</div>
 feature_image: "/img/hdr_team.jpeg"
 ---
 <h3>Our Mission:</h3>
-Content here...
-
+We've formed to support cyclists of all ages, but particularly young adults, by providing equipment, fostering their development within the cycling world, creating opportunities to compete, and nurturing talent. CVC also strives to build a strong cycling community by hosting events and engaging on social media.
 
 <h3>Meet the Team</h3>
 
@@ -16,11 +15,11 @@ Content here...
   </div>
     <div class="item">
     <img src="/img/hs_darin.jpeg" alt="Darin" class="image"/>
-    <span class="caption">Darin Alleman<br>Fredericksburg, VA<br>Cat 3 Road, Cat 3 CX</span>
+    <span class="caption">Darin Alleman<br>Fredericksburg, VA<br>gravel dog</span>
   </div>
   <div class="item">
     <img src="/img/hs_kyle.jpeg" alt="Kyle" class="image"/>
-    <span class="caption">Kyle Irwin<br>Hagerstown, MD<br>Cat 3 Road, Cat 5 CX</span>
+    <span class="caption">Kyle Irwin<br>Hagerstown, MD<br>Cat 2 Road, Cat 4 CX</span>
   </div>
   <div class="item">
     <img src="/img/hs_goates.jpeg" alt="Goates" class="image"/>
@@ -28,11 +27,11 @@ Content here...
   </div>
     <div class="item">
     <img src="/img/hs_noah.jpeg" alt="Noah" class="image"/>
-    <span class="caption">Noah Koppenhaver<br>Millersburg, PA<br> Cat 2 Road</span>
+    <span class="caption">Noah Koppenhaver<br>Millersburg, PA<br> Cat 1 Road</span>
     </div>
     <div class="item">
     <img src="/img/hs_andy.jpeg" alt="Andy" class="image"/>
-    <span class="caption">Andy Wolfe<br>Philadelphia, PA<br> Cat 3 Road</span>
+    <span class="caption">Andy Wolfe<br>Philadelphia, PA<br> Cat 1 Road</span>
     </div>
     <div class="item">
     <img src="/img/hs_ben.jpeg" alt="Ben" class="image"/>
@@ -92,7 +91,7 @@ Content here...
     </div>
     <div class="item">
     <img src="/img/hs_faceless.jpg" alt="Matt" class="image"/>
-    <span class="caption">Matt Briggs<br>Shippensburg, PA<br> Cat 5 Road</span>
+    <span class="caption">Matt Briggs<br>Shippensburg, PA<br> Cat 3 Road</span>
     </div>
     <div class="item">
     <img src="/img/hs_faceless.jpg" alt="Kevin" class="image"/>
