@@ -37,6 +37,8 @@ navigation_header:
   url: /
 - title: About Us
   url: /team/
+- title: BTOGS
+  url: /BTOGS/
 - title: Events
   url: /events/
 - title: Blog
