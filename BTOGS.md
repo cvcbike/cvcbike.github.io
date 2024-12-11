@@ -9,8 +9,12 @@ feature_image: "/img/header.jpg"
             margin-left: 15px;
             margin-bottom: 10px;
         }
+        .center-image {
+            display: block;
+            margin: 20px auto;
+        }
 </style>
-  <h3><u>b</u>e <u>t</u>here <u>o</u>r <u>g</u>et <u>s</u>lower</h3><br>
+  <h3><u>b</u>e <u>t</u>here <u>o</u>r <u>g</u>et <u>s</u>lower</h3>
   <img src="/img/btogs.png" alt="btogs pic"><br>
 
   <h4>Season and Time</h4> Generally 9:00am in the colder months, earlier in the warm months - starting in December until April.<br><br>
@@ -21,4 +25,5 @@ feature_image: "/img/header.jpg"
 
   <h4>When/where will we post the ride?</h4> Be on the lookout from the <a href="https://www.facebook.com/FranklinCountyCyclists/">Franklin County Cyclists Facebook page</a>, and the <a href="https://www.instagram.com/cvc.bike">CVC Instagram</a> around announcements of the ride for the week and whether we need to reschedule due to weather or other factors. These rides may not occur each week due to no ride leader for the day. This is not an official group ride, and we're not liable for anything you do on our rides. Show up, ride with us, and don't be a jerk.<br><br>
 
-  <h4>So what are these rides like?</h4> If you're coming from the FCC then you can look at these rides as if they are longer "A rides" with a typical "A pace" but more relaxed. Usually three to four hours in duration.  Varied terrain.This isn't a cut-throat group ride, which is to say we don't want to drop anyone and we regroup after climbs or periods of intensity if someone feels the need to turn the pedals in anger for a bit.  That said, know your limits.  If you want a group ride, but don't want to ride three to four hours, you're welcome to join us for the first hour or so and then loop back at your leisure.  Or meet us mid-ride.  Or ride with us until you get dropped and then do your own thing.  But folks planning to complete the ride should be capable of a 60-70 mile ride over varied terrain at a pace of something like 17-19 mph.  (Though when there's a decent group, and we're feeling froggy, average speeds may be significantly higher.)<br><br>
+  <h4>So what are these rides like?</h4> If you're coming from the FCC then you can look at these rides as if they are longer "A rides" with a typical "A pace" but more relaxed. Usually three to four hours in duration.  Varied terrain.This isn't a cut-throat group ride, which is to say we don't want to drop anyone and we regroup after climbs or periods of intensity if someone feels the need to turn the pedals in anger for a bit.  That said, know your limits.  If you want a group ride, but don't want to ride three to four hours, you're welcome to join us for the first hour or so and then loop back at your leisure.  Or meet us mid-ride.  Or ride with us until you get dropped and then do your own thing.  But folks planning to complete the ride should be capable of a 60-70 mile ride over varied terrain at a pace of something like 17-19 mph.  (Though when there's a decent group, and we're feeling froggy, average speeds may be significantly higher.)<br>
+  <img src="/img/btogs2.png" alt="Additional BTOGS Image" class="center-image"><br>
