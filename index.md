@@ -1,5 +1,5 @@
 ---
-title: Cumberland Valley Collective 2024
+title: Cumberland Valley Collective 2025
 layout: page
 feature_image: "/img/header.jpg"
 feature_text: |
