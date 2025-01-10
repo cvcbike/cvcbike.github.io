@@ -12,7 +12,7 @@ Dues for 2025 will be a total of $65 and consist of two separate payments - both
 2. CVC - The remainder of your dues ($45) will be paid to Cumberland Valley Collective. Use [this link to pay your 2025 CVC membership dues](https://www.paypal.com/ncp/payment/CUYWZKEWBM9J4).
 <hr>
 Benefits:
-* One Pactimo CVC jersey
+* One Pactimo CVC jersey included with membership
 * Pactimo CVC kit at a discounted rate
 * 40% off [Monolith performance nutrition](https://monolithperformance.com)
 * 25% off [Handup Gloves](https://www.handupco.com)
