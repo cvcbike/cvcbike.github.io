@@ -17,7 +17,7 @@ Benefits:
 * 40% off [Monolith performance nutrition](https://monolithperformance.com)
 * 25% off [Handup Gloves](https://www.handupco.com)
 * A very generous [Silca](https://silca.cc) discount
-* 
+* Discounted rate from [Gettysburg Bicycle](https://gettysburgbicycle.com) 
 * More benefits coming soon! 
 <hr>
 <img src="/img/fcc-membership.png">
