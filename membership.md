@@ -24,5 +24,8 @@ Benefits:
 * Generous product discounts from [Gettysburg Bicycle](https://gettysburgbicycle.com){:target="_blank"}
 * More benefits coming soon! 
 <hr>
-<img src="/img/fcc-membership.png">
+<figure>
+    <img style="border:1px solid #000000" src="/img/fcc-membership.png">
+    <figcaption><i>FCC membership form CVC checkbox</i></figcaption>
+</figure>
 
