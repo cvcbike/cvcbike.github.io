@@ -18,6 +18,7 @@ plugins:
 - jekyll-feed
 - jemoji
 - jekyll-remote-theme
+- jekyll-target-blank
 
 # Site settings
 url: 'https://cvc.bike'
