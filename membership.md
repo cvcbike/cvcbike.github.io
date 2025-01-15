@@ -4,7 +4,7 @@ title: <div style="color:black">Membership</div>
 feature_image: "/img/header.jpg"
 
 ---
-In order to support our [mission](../team), Cumberland Valley Collective (CVC) collects dues from our members to not only supplement the support that we get from our generous sponsors, but also foster a sense of commitment and accountability among members, ensuring everyone shares in the responsibility of sustaining the team's operations and goals.
+In order to support our [mission](../team), Cumberland Valley Collective (CVC) collects dues from our members to not only supplement the support that we get from our generous sponsors, but also to foster a sense of commitment and accountability among members, ensuring everyone shares in the responsibility of sustaining the team's operations and goals.
 
 Dues for 2025 will be a total of $65 and consist of two separate payments - both are required to join.
 
