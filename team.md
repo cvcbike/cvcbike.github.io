@@ -7,123 +7,45 @@ feature_image: "/img/hdr_team.jpeg"
 We've formed to support cyclists of all ages, but particularly young adults, by providing equipment, fostering their development within the cycling world, creating opportunities to compete, and nurturing talent. CVC also strives to build a strong cycling community by hosting events and engaging on social media.
 
 <h3>Meet the Team</h3>
+<ul>
+    <li>Alexander Wolfe - Philadelphia, PA</li>
+    <li>Andrew Wolfe - 1316 E PASSYUNK AVE APT A, PH</li>
+    <li>Benjamen Shrewsberry - Raleigh, NC</li>
+    <li>Benjamin Kutil - Newville, PA</li>
+    <li>Charlie Larsen - Parkton, MD</li>
+    <li>Darin Alleman - Fredericksburg, VA</li>
+    <li>Dave Jones - Shippensburg, PA</li>
+    <li>Ian Atwood - seven valleys, PA</li>
+    <li>Jacob Lay - Newburg, PA</li>
+    <li>Jake Haines - 400 BRADLEY CT, HA</li>
+    <li>James Haglund - Havertown, PA</li>
+    <li>Jonathan Marshall - Shippensburg, PA</li>
+    <li>Kevin Griffin - Lancaster, PA</li>
+    <li>Kyle Irwin - Hagerstown, MD</li>
+    <li>Laverne Eberly - Shippensburg, PA</li>
+    <li>Matthew Briggs - Ellicott City, MD</li>
+    <li>Nelson Beimfohr - Roanoke, VA</li>
+    <li>Noah Koppenhaver - Millersburg, PA</li>
+    <li>Paul Frandsen - Provo, UT</li>
+    <li>R. John Dawes - Washington, DC</li>
+    <li>Scott Coblentz - Frederick, MD</li>
+    <li>Trevor Grohowski - Shippensburg, PA</li>
+    <li>Walter Turlington - Carlisle, PA</li>
+    <li>jason huber - Chambersburg, PA</li>
+    <li>nathan goates - Shippensburg, PA</li>
+</ul>
 
-<div class="myGallery">
-  <div class="item">
-    <img src="/img/hs_ian.jpeg" alt="Ian" class="image"/>
-    <span class="caption">Ian Atwood<br>Dallastown, PA<br>Cat 4 Road, Cat 5 CX</span>
-  </div>
-    <div class="item">
-    <img src="/img/hs_darin.jpeg" alt="Darin" class="image"/>
-    <span class="caption">Darin Alleman<br>Fredericksburg, VA<br>gravel dog</span>
-  </div>
-  <div class="item">
-    <img src="/img/hs_kyle.jpeg" alt="Kyle" class="image"/>
-    <span class="caption">Kyle Irwin<br>Hagerstown, MD<br>Cat 2 Road, Cat 4 CX</span>
-  </div>
-  <div class="item">
-    <img src="/img/hs_goates.jpeg" alt="Goates" class="image"/>
-    <span class="caption">Nathan Goates<br>Shippensburg, PA<br> Cat 2 Road/CX/MTB</span>
-  </div>
-    <div class="item">
-    <img src="/img/hs_noah.jpeg" alt="Noah" class="image"/>
-    <span class="caption">Noah Koppenhaver<br>Millersburg, PA<br> Cat 1 Road</span>
-    </div>
-    <div class="item">
-    <img src="/img/hs_andy.jpeg" alt="Andy" class="image"/>
-    <span class="caption">Andy Wolfe<br>Philadelphia, PA<br> Cat 1 Road</span>
-    </div>
-    <div class="item">
-    <img src="/img/hs_ben.jpeg" alt="Ben" class="image"/>
-    <span class="caption">Ben Shrewsberry<br>Raleigh, NC<br> Cat 1 Road</span>
-    </div>
-    <div class="item">
-    <img src="/img/hs_charlie.jpeg" alt="Charlie" class="image"/>
-    <span class="caption">Charlie Larsen<br>York, PA<br> Cat 3 Road</span>
-    </div>
-    <div class="item">
-    <img src="/img/hs_james.jpeg" alt="James" class="image"/>
-    <span class="caption">James Bolze<br>Carlisle, PA<br> Cat 5 Road</span>
-    </div>
-    <div class="item">
-    <img src="/img/hs_nelson.jpeg" alt="Nelson" class="image"/>
-    <span class="caption">Nelson Biemfohr<br>Blacksburg, VA<br> Cat 3 Road/CX/MTB</span>
-    </div>
-    <div class="item">
-    <img src="/img/hs_JB.jpeg" alt="JB" class="image"/>
-    <span class="caption">JB Haglund<br>Philadelphia, PA<br>Cat 3 Road, Pro TTT'r</span>
-    </div>
-    <div class="item">
-    <img src="/img/hs_jon.jpeg" alt="Jon" class="image"/>
-    <span class="caption">Jon Marshall<br>Shippensburg, PA<br>Cat 1 Road</span>
-    </div>
-    <div class="item">
-    <img src="/img/hs_paul.jpeg" alt="Paul" class="image"/>
-    <span class="caption">Paul Frandsen<br>Provo, UT<br> Cat 4 Road, Cat 3 CX</span>
-    </div>
-    <div class="item">
-    <img src="/img/hs_cw.jpeg" alt="Christopher" class="image"/>
-    <span class="caption">Christopher Woltemade<br>Shippensburg, PA<br> Cat 3 Road/CX</span>
-    </div>
-    <div class="item">
-    <img src="/img/hs_jake.jpeg" alt="Jake" class="image"/>
-    <span class="caption">Jake Haines<br>Harrisburg, PA<br> Cat 3 Road, Cat 4 CX</span>
-    </div>
-    <div class="item">
-    <img src="/img/hs_faceless.jpg" alt="Josh" class="image"/>
-    <span class="caption">Josh Beck<br>Carlisle, PA<br> Cat 1 Road</span>
-    </div>
-    <div class="item">
-    <img src="/img/hs_faceless.jpg" alt="Chuck" class="image"/>
-    <span class="caption">Chuck Steppe<br>Carlisle, PA<br> Cat 5 Road</span>
-    </div>
-    <div class="item">
-    <img src="/img/hs_faceless.jpg" alt="Colin" class="image"/>
-    <span class="caption">Colin McKenna<br>Somewhere, PA<br> Cat 3 Road</span>
-    </div>
-    <div class="item">
-    <img src="/img/hs_faceless.jpg" alt="Hamer" class="image"/>
-    <span class="caption">Hamer Farag<br>Somewhere, NJ<br> Cat 5 Road</span>
-    </div>
-    <div class="item">
-    <img src="/img/hs_faceless.jpg" alt="Nick" class="image"/>
-    <span class="caption">Nicholas Price<br>Somewhere, NJ<br> Cat 5 Road</span>
-    </div>
-    <div class="item">
-    <img src="/img/hs_faceless.jpg" alt="Matt" class="image"/>
-    <span class="caption">Matt Briggs<br>Shippensburg, PA<br> Cat 3 Road</span>
-    </div>
-    <div class="item">
-    <img src="/img/hs_faceless.jpg" alt="Kevin" class="image"/>
-    <span class="caption">Kevin Griffin<br>Millersville, PA<br> Cat 4 Road</span>
-    </div>
-</div>
 <h3>Those That Power The Collective:</h3>
 
-We're proudly sponsored by and support THE coolest companies. 
+We are super thankful for the following companies that have either given us financial or product support. Please take a moment to familiarize yourself with our sponsors and spread the word. Word of mouth and your social media are great ways to return value to our sponsors and absolutely give them a like/follow on social media (Facebook, Instagram, etc). Engage with them in any way you can to help them out. They&rsquo;re helping us!
 
-beer: 
-  <a href="https://gearhousebrewingco.com/">
-  <img src="/img/logo_gh.PNG" alt="Gearhouse" />
-  </a>
-
-bike shop: 
-<a href="https://gettysburgbicycle.com/">
-<img src="/img/logo_gb.png" alt="Gettysburg Bicycle" />
-</a>
-
-coffee: 
-<a href="https://wishfulroasting.com">
-<img src="/img/logo_wishful.jpg" alt="Wishful Roasting" />
-</a> 
-USE CODE <b>CVCTEAM</b> FOR 10% OFF YOUR NEXT ORDER!
-
-bikes: 
-<a href="https://www.specialized.com/us/en">
-<img src="/img/logo_spec.png" alt="Specialized Bikes" />
-</a>
-
-hate for good: 
-<a href="https://www.teamihatecancer.com/">
-<img src="/img/logo_tihc.PNG" alt="Team I Hate Canceer" />
-</a>
+- [East Coast Truck and Trailer](https://ectts.com/) - for all of your commercial transportation needs
+- [Churchtown Chapeau Co](https://chapeauco.bigcartel.com/about-churchtown-chapeau-co) - custom knit Christmas stockings
+- [Gearhouse Brewing Company](https://gearhousebrewingco.com/) - Brewery, great food, and cool people
+- [Noah.solar](https://www.noah.solar/) - Central PA&rsquo;s solar professional
+- [Retro and Rad](https://retroandrad.com) - Nostalgic toys and collectibles
+- [Wishful Roasting](https://wishfulroasting.com/?srsltid=AfmBOorTGBgdXYsJgWNns76SW2knK88usp7UGAJUONa2WqyoRWxxwIXb)  - Coffee with a purpose. 20% of proceeds to go charity
+- [Gettysburg Bicycle](https://gettysburgbicycle.com) - Our favorite bicycle shop  
+- [Monolith Performance](https://monolithperformance.com/) - Endurance nutrition that doesn&rsquo;t break the bank
+- [Basecamp](https://www.joinbasecamp.com/?srsltid=AfmBOopOyR4SBtPLzKTdKJb8rEvtXnLccnCAUWgzkrRfZJ1uhR8-KknD) - Our fastest athletes are coached by Basecamp
+- [Pennsylvania Dirtbags](https://padirtbags.com/) - Our favorite brand/social media partner
