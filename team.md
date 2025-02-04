@@ -9,7 +9,7 @@ We've formed to support cyclists of all ages, but particularly young adults, by 
 <h3>Meet the Team</h3>
 <ul>
     <li>Alexander Wolfe - Philadelphia, PA</li>
-    <li>Andrew Wolfe - 1316 E PASSYUNK AVE APT A, PH</li>
+    <li>Andrew Wolfe - Philadelphia, PA</li>
     <li>Benjamen Shrewsberry - Raleigh, NC</li>
     <li>Benjamin Kutil - Newville, PA</li>
     <li>Charlie Larsen - Parkton, MD</li>
@@ -17,7 +17,7 @@ We've formed to support cyclists of all ages, but particularly young adults, by 
     <li>Dave Jones - Shippensburg, PA</li>
     <li>Ian Atwood - seven valleys, PA</li>
     <li>Jacob Lay - Newburg, PA</li>
-    <li>Jake Haines - 400 BRADLEY CT, HA</li>
+    <li>Jake Haines - Harrisburg, PA</li>
     <li>James Haglund - Havertown, PA</li>
     <li>Jonathan Marshall - Shippensburg, PA</li>
     <li>Kevin Griffin - Lancaster, PA</li>
