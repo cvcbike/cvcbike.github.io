@@ -8,7 +8,7 @@ In order to support our [mission](../team){:target="_blank"}, Cumberland Valley 
 
 Dues for 2026 will be a total of $70 and consist of two separate payments - both are required to join.
 
-1. FCC - As part of our partnership with the Franklin County Cyclists (FCC), CVC members are also required to pay an annual $20 membership fee to the FCC. When paying for your membership, **be sure to check the box for "I am riding for Cumberland Valley Collective"** for their tracking purposes (screenshot at the bottom of this page). [Click here to pay your FCC membership fee](https://www.franklincountycyclists.com/fcc-store/p/2025-membership){:target="_blank"}. 
+1. FCC - As part of our partnership with the Franklin County Cyclists (FCC), CVC members are also required to pay an annual $25 membership fee to the FCC. When paying for your membership, **be sure to check the box for "I am riding for Cumberland Valley Collective"** for their tracking purposes (screenshot at the bottom of this page). [Click here to pay your FCC membership fee](https://www.franklincountycyclists.com/fcc-store/p/2025-membership){:target="_blank"}. 
 2. CVC - The remainder of your dues ($50) will be paid to Cumberland Valley Collective. Use [this link to pay your 2026 CVC membership dues](https://www.paypal.com/ncp/payment/HQTS8ZSWWXXEC){:target="_blank"}.
 
 Please email [treasurer@cvc.bike](mailto:treasurer@cvc.bike) if you have any questions about membership. 
